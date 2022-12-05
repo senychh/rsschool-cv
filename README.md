@@ -1,1 +1,1 @@
-# rsschool-cv
+https://senychh.github.io/rsschool-cv/cv
