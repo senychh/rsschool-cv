@@ -28,3 +28,11 @@ function evenOrOdd(number) {
   }
 };
 ```
+
+## Education 
+
+* Belarusian State Pedagogical University, manager-producer of mass sports events
+
+## English 
+
+ * A2-B1. I have online lessons once a week at EnRu school
